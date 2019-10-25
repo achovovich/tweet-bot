@@ -25,10 +25,10 @@ log("Session Started...");
 
 
 var twitter = new Twitter({
-  "consumerKey"       : "wTjQVxsCBL2e27K9P0OgoTRFR",
-  "consumerSecret"    : "zBQccjs2QsQBOOjT7iTEaFcy6Bw5uUPHluk0WUj8uODnA0vvt1",
-  "accessToken"       : "3421948445-phIcQHhckiZ9sChIKoNwW5hP8qFN9psxrzbZiuk",
-  "accessTokenSecret" : "CJUy3yDNYVMhKSEWLM6zXgBCYf3z6In2CyKedLVuAOuCd",
+  "consumerKey"       : "xxxx",
+  "consumerSecret"    : "xxxx",
+  "accessToken"       : "xxxx-phIcQHhckiZ9sChIKoNwW5hP8qFN9psxrzbZiuk",
+  "accessTokenSecret" : "xxxx",
 });
 
 
